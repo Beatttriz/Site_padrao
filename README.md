@@ -1,2 +1,2 @@
-# SitePadrao
+# Site padrão
 Site padrão tecblog
